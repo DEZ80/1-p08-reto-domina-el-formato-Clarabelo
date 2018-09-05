@@ -20,7 +20,7 @@ PC: 4000
 
 ## Actividad 3: (C) 12 Píxeles en grupos de 2 del mismo color
 ```
-21 43 77 22 00 C8 18 FE
+3E FC 3E 3C 3E 3F 32 00 C0 18 FE
 ```
 PC: 4000
 
